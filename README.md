@@ -1,70 +1,93 @@
-<div align="center">
+\<div align="center">
 
 # 👩🏻‍💻 Sneha Sharma
 
 ### `AI/ML Enthusiast` • `Aspiring MLOps Engineer` • `B.Tech IT Student`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions;Learning+Machine+Learning+%26+MLOps;Turning+ideas+into+working+projects;Learn+%7C+Build+%7C+Deploy+%7C+Repeat" alt="Typing SVG" />
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions;Learning+Machine+Learning+%26+MLOps;Turning+ideas+into+working+projects;Learn+%7C+Build+%7C+Deploy+%7C+Repeat](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=700\&lines=Building+AI-powered+solutions;Learning+Machine+Learning+%26+MLOps;Turning+ideas+into+working+projects;Learn+%7C+Build+%7C+Deploy+%7C+Repeat)" alt="Typing SVG" />
 
-<p>
-<a href="https://github.com/Sneha-ops3124">
-<img src="https://komarev.com/ghpvc/?username=Sneha-ops3124&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</a>
-<a href="https://github.com/Sneha-ops3124?tab=followers">
-<img src="https://img.shields.io/github/followers/Sneha-ops3124?label=Followers&style=flat" alt="followers"/>
-</a>
-</p>
+\<p>
+\<a href="[https://github.com/Sneha-ops3124](https://github.com/Sneha-ops3124)">
+\<img src="[https://komarev.com/ghpvc/?username=Sneha-ops3124&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=Sneha-ops3124\&label=Profile%20Views\&color=0e75b6\&style=flat)" alt="Profile Views"/>
+\</a>
+\<a href="[https://github.com/Sneha-ops3124?tab=followers](https://github.com/Sneha-ops3124?tab=followers)">
+\<img src="[https://img.shields.io/github/followers/Sneha-ops3124?label=Followers&style=flat](https://img.shields.io/github/followers/Sneha-ops3124?label=Followers\&style=flat)" alt="Followers"/>
+\</a>
+\</p>
 
-</div>
+\</div>
 
 ---
 
 ```text
+::.....::::::::::::::::::----=+**#######****###########+-----:::::::::::::::::::::::::-:::::::::::--
+::.....:::::::::::::::::-=+**############################=-::::::::::::::::::::-::::::-::::::-:::::-
+:......::::::::::::::::-+*##############*#################+-::::::::::::::::::::::::::::::::--::::::
+:........::::::::::::--+##*##%#############################*-:::::::::::::::::::::::::::::::-:::...:
+::.......::::::::::::-*#####################################*-:::::::::::::::::::::::::::::::::.....
+::.......:::::::::::-*########**##################%%%########*::::::::::::::::::::::::::::::::...:::
+:::.......:::::::::-+########*+*#####%############%%%%%#######+::::::::::::::::::::::::::::..:::::::
+-::........::::::::-########*++*#############%%##%%%%%%%%######=::::::::::::::::-:::::....:::::::::.
+-::.........:::::::+%%####*+====++++++++*###%%%%%%%%%%%%%%%####+:::::::::::-::::::::::::::::::......
+=-::........::::::-#%%###*+==-----------=+*#%%%%%%%%%%%%%%%%%##*=::::::::---::::::::::::::..........
+*-::........::::::=#%%###*+=-------------=+*#%%%%%%%%%%%%%%%%%##+:::::----:::::::::::::.............
+*+-:........::::::=#%%###*==-------------==+*##%%%%%%%%%%%%%%%%##=-----:::::::::::::..............::
+#*-::........::::-=#%%%%#+=---------------==++*##%%%%%%%%%%%%%%%#*=--::::::::::::..........:::::::::
+#*=-:........:::::=#%%%#*=------------------==+*##%%%%%%%%%%%%%%%#=---:::::::::::.....:::::---:::::
+##+-::.......:::::=#%%%#*=----------:--------===++*##%%%%%%%%%%%%%#=-::::::::::::::::::::------:::::
+##*=::.....:::::::-+*%%#++**+=-------==++******+=====+#%%%%%%%%%%%%+::::::::::::::::::::::-----:::::
+##*+-::....::.:::::-+#%#*+++++==----==+++=============+#%%%%###%%%%#=::::::::::::::::::::::-----::::
+###*=::.......:::::-*#%%*#=-***==----==+++*****+======+#%%%##*#%%%%%#=---:::::::::::::::::------::::
+####+-:........::::=#%%#+====++==-:---=+-:=##=*++=--==+*####**%%%%%%#+--:::::::::::::::::--------:::
+####+-::......::::-=##%#=--------:::--------==-------==*##***#%######+---------::::::::::---::::::::
+####*=-:......::::-+##%#=::::::--:::::::::::::::::---=+#*+++#%%%%####+-----:::::::::::::::::::::::::
+#####+-::.....:::-=*####=-::::--:::::::::::::::::----=*#+++#%%%%%%%##+-:::::::::::::::::::::::::::::
+#####*=::.....:::-+*####*--:::-:::::::---::::::::---=+#####%%%%%%%%##+-:::::---:::::::::::::::::::::
+######+-::....:::=+######+-------:--------::::-----==*#%%%%%%%%%%%%##+--::------::::::::::::::::::::
+######*=:::::::::=*#######+==-----==-------------===+#%%%%%%%%%%%%%#*=---::-----::::::::::::::::::::
+#######+-::::.::-+*########+====----------------===+*%%%#%%%%%%%%%%#+=---:::---::::::::::::::::::::
+#######*=::...::-+*#########*===+++++++++++=---===+*#%%%%%%%%%%%%%###+----:----::::::::::::::::::::
+#######*+-::..::---###*######*========++==--====++*##%%%%##%%%%%####***=--::::::::::::::::::::::::
+*#######*-::::::--:+########%%#===============+++***#%%%%#####%%%**+++*+=-::::::::::::::::::::::::
+-*######*+-::::::-++***#########+--------===+++++++*##%%%%%%%##%%##*+++*=-::::::::::::::::::::::::
+-+#######*=:--=--====++*#######%%#+++====++++++===+**#####%%%%%%%%####*+==--::::::::::::--:::::::::
+-=######*=-=====--=+=++**##%%%%%%%%%%%##+========++++*##*#%%%%%%%####***++=---::-:::::::--:::::::::
+*+*##**=---=-=========+*+*####%%%%%%%%%#+=========-==+***###%%%%%#####*+++=---=---::::::--::::::::
++++++++-----===========+**####%%%%%%%%#*==----------==+***###%%%%#####****+==-=-----::::---:::::::::
++++++=-=------========++***#%%%%%%%%%%#+=---:-------=+++++***##%%%%%%%#*++====-==-----:--=--::::::::
+****+----===============+*##%%%##%%%%%%*=---::-:----=++++++*#**##%%%%#*+++========------==-----::::-
+*+++=-------==========+==+###%%%%%%%%%%#*=----------+++++++++***##%%%#*++=====================++++=
+#*+=--====-=========+=++++#%%%%%%%%%%%%%#=---------=+++++++++=+++*#%#*++=======-=======--=--========
+##*=------=======++++++**###%%%%%%#%%%%%#=-------==+++==+++==++++*##**+============-========+=-==+++
+###=------=-=======+++++*++*#####%%%%%%%#+=-----=====+===++=++++*##*+++++=++====================----
+%#*=-=-===========++++=+++++*#%%%%%%%%%%#+==---===++++===+==+++*##**+++++++=+=====+===========---===
+%#*=----=========++++++=++++*#######%%%%#*=======+==++++=+++++*#**+++++++++++==+=============---====
+%#+-------======++++**+++++*########%%%%#++====++===+====++++*++++++++++==+++=========+==+==--======
+%#=------=======+++++**++++*###%%####%%##**++==+=========++++====++=++++===+================-====+==
+%*----===========++++***++***#######%%###*++===+==++=======+=====++++++++====+++=++=========--===++=
+#=-==============+++++**++**+*##%%#%####*+++++===++++======+======++++**+=---=+++++===+====----==+++
+-=+==============++++++*++++++*#####*##*++++++==++++=======+======++++**+=----==++===++=====---==+++
++=============+++++++#*++++++***#####**+++++==++++=========++=++++++++++=--------==++++++++==--===++
+=+=============++++++*#++++=+++*******+++++====++=+========+++++++==----------------++**++++======++
+--========++++==+++++##*++++++++++++++++++======++++=======+==-----------------------===+**+++====++
+-=======++++++++++++++#*++++++++++++++++++++======+++=++==---------------------------------=+**+++++
+==============+++++++*##+++++++++++++++++++===+=======-----------------------------------------+***
+===========+=+==+++++##%#++++++++++++++++++======------------------------------------------------=+*
+--------==+++++++++++*%%#+++++++++++++++++===-------------------------------------------------------
+---------=====+++++++*#%#+++++++++++++==------------------------------------------------------------
+```
+
+```text
         ┌──(Sneha㉿GitHub)-[~]
-        └─$ cat profile.txt
+        └─$ whoami
 
-        NAME        = Sneha Sharma
-
-        ROLE        = AI/ML Engineer in Progress
-
-        COLLEGE     = University Institute of
-                      Technology, BU
-
-        STATUS      = B.Tech IT • 3rd Year
-                      2024-2028 Batch
-
-        SPECIALTY   = AI | Machine Learning | MLOps
-
-        LANGUAGES   = Python | C | C++ | Java
-                      SQL | JavaScript
-
-        AI / ML     = NumPy | Pandas | Scikit-learn
-                      XGBoost | Data Analysis
-
-        DEV_TOOLS   = Git | GitHub | Docker
-                      Linux | VS Code
-
-        DATABASES   = PostgreSQL | SQL
-
-        CLOUD       = AWS | Render | Vercel
-
-        BUILDING    = ML Applications
-                      Data Pipelines
-                      AI-powered Solutions
-
-        INTERESTS   = Artificial Intelligence
-                      Machine Learning
-                      MLOps | Open Source
-
-        CURRENTLY   = GATE CS 2027
-                      AI/ML Projects
-                      MLOps
-
-        MISSION     = Learn • Build • Deploy
-                      Repeat
+        Sneha Sharma
+        AI/ML • MLOps • Software Development
 
         ┌──(Sneha㉿GitHub)-[~]
-        └─$
+        └─$ cat mission.txt
+
+        Learn → Build → Deploy → Improve
 ```
 
 ---
@@ -73,165 +96,147 @@
 
 Hi 👋 I'm **Sneha**, an Information Technology student passionate about **Artificial Intelligence, Machine Learning and MLOps**.
 
-- 🎓 B.Tech Information Technology student at **UIT, BU**
-- 🤖 Exploring **AI/ML and intelligent applications**
-- 🧠 Building projects around **Machine Learning and data-driven solutions**
-- ⚙️ Learning **MLOps, Docker, Linux, cloud and deployment**
-- 🐍 Strongly focused on **Python and problem solving**
-- 📊 Working with **data analysis, model training and evaluation**
-- 🌱 Continuously learning and improving through real-world projects
-- 🚀 Interested in building solutions that move from **idea → model → deployment**
-- 🤝 Open to **AI/ML, MLOps, open-source and software development opportunities**
+- 🎓 B.Tech Information Technology student
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🧠 Building data-driven and ML-powered applications
+- ⚙️ Learning MLOps, Docker, Linux and cloud deployment
+- 🐍 Working extensively with Python
+- 📊 Interested in Data Science and Machine Learning pipelines
+- 🚀 Turning ideas into real-world projects
+- 🌱 Continuously learning, building and experimenting
+- 🤝 Interested in AI/ML, MLOps, Open Source and Software Development
 
 ---
 
 # ⚡ Tech Stack
 
-## 👩🏻‍💻 Programming Languages
+### 👩🏻‍💻 Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,sql" />
-</p>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=python,c,cpp,java,js](https://skillicons.dev/icons?i=python,c,cpp,java,js)" />
+\</p>
 
----
+### 🤖 AI / Machine Learning
 
-## 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+\
 
----
 
-## ⚙️ MLOps / DevOps
+### ⚙️ MLOps / DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,aws,git,github" />
-</p>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=docker,linux,aws,git,github](https://skillicons.dev/icons?i=docker,linux,aws,git,github)" />
+\</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🗄️ Databases
 
----
+\<p>
+\<img src="[https://skillicons.dev/icons?i=postgresql,mysql](https://skillicons.dev/icons?i=postgresql,mysql)" />
+\</p>
 
-## 🗄️ Databases
+### 🌐 Web / Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-</p>
-
----
-
-## 🌐 Web / Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,django,flask" />
-</p>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=html,css,js,react,django,flask](https://skillicons.dev/icons?i=html,css,js,react,django,flask)" />
+\</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🪐 ExoHabitAI
+## 🪐 ExoHabitAI
 
-**Machine Learning based exoplanet habitability analysis and prediction.**
+Machine Learning based **exoplanet habitability analysis and prediction**.
 
-- 🔬 Data-driven ML approach
-- 📊 Dataset preprocessing and analysis
-- 🤖 Model training and evaluation
+- 🔬 Data preprocessing and analysis
+- 📊 Exploratory data analysis
+- 🤖 Machine Learning model training
 - 🌳 XGBoost-based prediction
-- ⚖️ SMOTE for handling class imbalance
+- ⚖️ SMOTE for class imbalance
 - 🚀 Deployment-oriented ML workflow
 
-🔗 **Repository:**  
-https://github.com/Sneha-ops3124/B13-ExoHabitAI
+🔗 **Repository:**
+[https://github.com/Sneha-ops3124/B13-ExoHabitAI](https://github.com/Sneha-ops3124/B13-ExoHabitAI)
 
 ---
 
-### ⚡ eSim
+## ⚡ eSim
 
-**Open-source electronics simulation project based on FOSSEE eSim.**
+Open-source electronics simulation project and development work.
 
-- 🐍 Python-based development
-- 🔧 Working with an existing open-source codebase
+- 🔧 Open-source development
+- 🐍 Python development
 - 🛠️ Installation and development workflow
 - 🌱 Open-source contribution experience
 
-🔗 **Repository:**  
-https://github.com/Sneha-ops3124/eSim
+🔗 **Repository:**
+[https://github.com/Sneha-ops3124/eSim](https://github.com/Sneha-ops3124/eSim)
 
 ---
 
-### 🛒 Flashcart
+## 🛒 Flashcart
 
-**Quick-commerce application for ordering everyday products from nearby stores.**
+A quick-commerce application for ordering everyday products.
 
-- 🛍️ Grocery and essentials ordering
-- 📦 Product-based application workflow
-- 📱 Application development
+- 🛍️ Product-based application
+- 📦 Shopping workflow
 - 🚚 Delivery-oriented system
+- 💻 Application development
 
-🔗 **Repository:**  
-https://github.com/Sneha-ops3124/Flashcart
+🔗 **Repository:**
+[https://github.com/Sneha-ops3124/Flashcart](https://github.com/Sneha-ops3124/Flashcart)
 
 ---
 
-### 💻 Byte Brigade
+## 💻 Byte Brigade
 
 A collaborative software development project focused on building a practical application.
 
-🔗 **Repository:**  
-https://github.com/Sneha-ops3124/Byte_Brigade
+🔗 **Repository:**
+[https://github.com/Sneha-ops3124/Byte_Brigade](https://github.com/Sneha-ops3124/Byte_Brigade)
 
 ---
 
 # 📊 GitHub Statistics
 
-<div align="center">
+\<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sneha-ops3124&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+\<img src="[https://github-readme-stats.vercel.app/api?username=Sneha-ops3124&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Sneha-ops3124\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-ops3124&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-ops3124&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-ops3124\&layout=compact\&theme=tokyonight\&hide_border=true)" height="180"/>
 
-</div>
+\</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
+\<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sneha-ops3124&theme=tokyonight&hide_border=true" />
+\<img src="[https://streak-stats.demolab.com?user=Sneha-ops3124&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Sneha-ops3124\&theme=tokyonight\&hide_border=true)" />
 
-</div>
+\</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
+\<div align="center">
 
-<img src="https://raw.githubusercontent.com/Sneha-ops3124/Sneha-ops3124/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+\<img src="[https://raw.githubusercontent.com/Sneha-ops3124/Sneha-ops3124/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Sneha-ops3124/Sneha-ops3124/output/github-contribution-grid-snake.svg)" alt="GitHub Contribution Snake"/>
 
-</div>
+\</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+\<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneha-ops3124&theme=tokyo-night&hide_border=true" width="95%"/>
+\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Sneha-ops3124&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Sneha-ops3124\&theme=tokyo-night\&hide_border=true)" width="95%"/>
 
-</div>
+\</div>
 
 ---
 
@@ -248,13 +253,12 @@ https://github.com/Sneha-ops3124/Byte_Brigade
 │  ✓ MLOps                                    │
 │  ✓ Docker & Linux                           │
 │  ✓ Cloud & Deployment                       │
-│  ✓ Real-world ML Projects                   │
-│  ✓ GATE CS 2027 Preparation                 │
-│                                              │
+│  ✓ Real-world ML Projects                   │         
+│                                             │
 │  [] Build better ML systems                 │
 │  [] Contribute to Open Source               │
 │  [] Deploy more AI applications             │
-│                                              │
+│                                             │
 └──────────────────────────────────────────────┘
 ```
 
@@ -288,16 +292,6 @@ ENGINEERING
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sneha-ops3124&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
 # 💡 My Development Philosophy
 
 ```text
@@ -305,45 +299,51 @@ ENGINEERING
                  ↓
         Build something real.
                  ↓
-        Break it.
+              Break it.
                  ↓
         Understand why.
                  ↓
-        Fix it.
+             Fix it.
                  ↓
-        Deploy it.
+            Deploy it.
                  ↓
-        Repeat.
+              Repeat.
 ```
 
 > **"Don't just learn technology. Build with it."**
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
-<div align="center">
+\<div align="center">
 
-<a href="mailto:snehasharma.311006@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+\<img src="[https://github-profile-trophy.vercel.app/?username=Sneha-ops3124&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1](https://github-profile-trophy.vercel.app/?username=Sneha-ops3124\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&row=1)" />
 
-<a href="https://github.com/Sneha-ops3124">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sneha2006/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+\</div>
 
 ---
 
-<div align="center">
+# 🌐 Connect With Me
+
+\<div align="center">
+
+\<a href="[https://github.com/Sneha-ops3124](https://github.com/Sneha-ops3124)">
+\<img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)"/>
+\</a>
+
+\<a href="[https://www.linkedin.com/in/sneha2006/](https://www.linkedin.com/in/sneha2006/)">
+\<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
+\</a>
+
+\</div>
+
+---
+
+\<div align="center">
 
 ### ⚡ Learn • Build • Deploy • Innovate ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=100&section=footer"/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00F7FF,100:7F00FF\&height=100\&section=footer)"/>
 
-</div>
+\</div>
