@@ -1,34 +1,349 @@
-## Hi there 👋
-# 💫 About Me:
-Hi 👋, I'm Sneha — an Information Technology student building <br>skills in AI, Machine Learning, and development.<br><br>🔭 I'm currently working on applied ML projects, from predictive <br>   models to data pipelines<br>🌱 Active contributor at GeeksforGeeks, Google Developer Groups, <br>   and GirlScript Summer of Code<br>💻 I love turning research concepts into working, real-world solutions<br>🤝 Open to opportunities in AI, ML, and scalable systems<br>📫 Let's connect: snehasharma.311006@gmail.com
+<div align="center">
 
+# 👩🏻‍💻 Sneha Sharma
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_not_so._perfect_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sneha2006/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Sneha-7484) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SnehaSharma1504) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehasharma.311006@gmail.com) 
+### `AI/ML Enthusiast` • `Aspiring MLOps Engineer` • `B.Tech IT Student`
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sneha-ops3124&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sneha-ops3124&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sneha-ops3124&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions;Learning+Machine+Learning+%26+MLOps;Turning+ideas+into+working+projects;Learn+%7C+Build+%7C+Deploy+%7C+Repeat" alt="Typing SVG" />
+
+<p>
+<a href="https://github.com/Sneha-ops3124">
+<img src="https://komarev.com/ghpvc/?username=Sneha-ops3124&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</a>
+<a href="https://github.com/Sneha-ops3124?tab=followers">
+<img src="https://img.shields.io/github/followers/Sneha-ops3124?label=Followers&style=flat" alt="followers"/>
+</a>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sneha-ops3124&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```text
+        ┌──(Sneha㉿GitHub)-[~]
+        └─$ cat profile.txt
 
-<!--
-**Sneha-ops3124/Sneha-ops3124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        NAME        = Sneha Sharma
 
-Here are some ideas to get you started:
+        ROLE        = AI/ML Engineer in Progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        COLLEGE     = University Institute of
+                      Technology, BU
+
+        STATUS      = B.Tech IT • 3rd Year
+                      2024-2028 Batch
+
+        SPECIALTY   = AI | Machine Learning | MLOps
+
+        LANGUAGES   = Python | C | C++ | Java
+                      SQL | JavaScript
+
+        AI / ML     = NumPy | Pandas | Scikit-learn
+                      XGBoost | Data Analysis
+
+        DEV_TOOLS   = Git | GitHub | Docker
+                      Linux | VS Code
+
+        DATABASES   = PostgreSQL | SQL
+
+        CLOUD       = AWS | Render | Vercel
+
+        BUILDING    = ML Applications
+                      Data Pipelines
+                      AI-powered Solutions
+
+        INTERESTS   = Artificial Intelligence
+                      Machine Learning
+                      MLOps | Open Source
+
+        CURRENTLY   = GATE CS 2027
+                      AI/ML Projects
+                      MLOps
+
+        MISSION     = Learn • Build • Deploy
+                      Repeat
+
+        ┌──(Sneha㉿GitHub)-[~]
+        └─$
+```
+
+---
+
+# 💫 About Me
+
+Hi 👋 I'm **Sneha**, an Information Technology student passionate about **Artificial Intelligence, Machine Learning and MLOps**.
+
+- 🎓 B.Tech Information Technology student at **UIT, BU**
+- 🤖 Exploring **AI/ML and intelligent applications**
+- 🧠 Building projects around **Machine Learning and data-driven solutions**
+- ⚙️ Learning **MLOps, Docker, Linux, cloud and deployment**
+- 🐍 Strongly focused on **Python and problem solving**
+- 📊 Working with **data analysis, model training and evaluation**
+- 🌱 Continuously learning and improving through real-world projects
+- 🚀 Interested in building solutions that move from **idea → model → deployment**
+- 🤝 Open to **AI/ML, MLOps, open-source and software development opportunities**
+
+---
+
+# ⚡ Tech Stack
+
+## 👩🏻‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,sql" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+
+---
+
+## ⚙️ MLOps / DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,git,github" />
+</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
+
+---
+
+## 🌐 Web / Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,django,flask" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🪐 ExoHabitAI
+
+**Machine Learning based exoplanet habitability analysis and prediction.**
+
+- 🔬 Data-driven ML approach
+- 📊 Dataset preprocessing and analysis
+- 🤖 Model training and evaluation
+- 🌳 XGBoost-based prediction
+- ⚖️ SMOTE for handling class imbalance
+- 🚀 Deployment-oriented ML workflow
+
+🔗 **Repository:**  
+https://github.com/Sneha-ops3124/B13-ExoHabitAI
+
+---
+
+### ⚡ eSim
+
+**Open-source electronics simulation project based on FOSSEE eSim.**
+
+- 🐍 Python-based development
+- 🔧 Working with an existing open-source codebase
+- 🛠️ Installation and development workflow
+- 🌱 Open-source contribution experience
+
+🔗 **Repository:**  
+https://github.com/Sneha-ops3124/eSim
+
+---
+
+### 🛒 Flashcart
+
+**Quick-commerce application for ordering everyday products from nearby stores.**
+
+- 🛍️ Grocery and essentials ordering
+- 📦 Product-based application workflow
+- 📱 Application development
+- 🚚 Delivery-oriented system
+
+🔗 **Repository:**  
+https://github.com/Sneha-ops3124/Flashcart
+
+---
+
+### 💻 Byte Brigade
+
+A collaborative software development project focused on building a practical application.
+
+🔗 **Repository:**  
+https://github.com/Sneha-ops3124/Byte_Brigade
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sneha-ops3124&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-ops3124&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sneha-ops3124&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sneha-ops3124/Sneha-ops3124/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneha-ops3124&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+```text
+┌──────────────────────────────────────────────┐
+│              SNEHA • CURRENT FOCUS           │
+├──────────────────────────────────────────────┤
+│                                              │
+│  ✓ Artificial Intelligence                  │
+│  ✓ Machine Learning                         │
+│  ✓ Python & Data Science                    │
+│  ✓ MLOps                                    │
+│  ✓ Docker & Linux                           │
+│  ✓ Cloud & Deployment                       │
+│  ✓ Real-world ML Projects                   │
+│  ✓ GATE CS 2027 Preparation                 │
+│                                              │
+│  [] Build better ML systems                 │
+│  [] Contribute to Open Source               │
+│  [] Deploy more AI applications             │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 🧠 What I'm Learning
+
+```text
+AI / ML
+ ├── Data Preprocessing
+ ├── Feature Engineering
+ ├── Model Training
+ ├── Model Evaluation
+ └── Machine Learning Pipelines
+
+MLOps
+ ├── Linux
+ ├── Git & GitHub
+ ├── Docker
+ ├── CI/CD
+ ├── Cloud
+ └── Model Deployment
+
+ENGINEERING
+ ├── Python
+ ├── SQL
+ ├── APIs
+ ├── Backend Development
+ └── System Design
+```
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sneha-ops3124&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+# 💡 My Development Philosophy
+
+```text
+        Learn something new.
+                 ↓
+        Build something real.
+                 ↓
+        Break it.
+                 ↓
+        Understand why.
+                 ↓
+        Fix it.
+                 ↓
+        Deploy it.
+                 ↓
+        Repeat.
+```
+
+> **"Don't just learn technology. Build with it."**
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:snehasharma.311006@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sneha-ops3124">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sneha2006/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Learn • Build • Deploy • Innovate ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=100&section=footer"/>
+
+</div>
