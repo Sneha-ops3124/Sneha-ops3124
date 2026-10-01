@@ -1,173 +1,96 @@
-```md
-<!-- ========================================================= -->
-<!--                    SNEHA SHARMA README                    -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 # 👩🏻‍💻 Sneha Sharma
 
-### AI/ML Enthusiast • Aspiring MLOps Engineer • B.Tech IT
+### `AI/ML Enthusiast` • `Aspiring MLOps Engineer` • `B.Tech IT Student`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%7C+Machine+Learning+%7C+MLOps;Building+Real-World+ML+Projects;Learning+%7C+Building+%7C+Deploying;Turning+Ideas+Into+Working+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions;Learning+Machine+Learning+%26+MLOps;Turning+ideas+into+working+projects;Learn+%7C+Build+%7C+Deploy+%7C+Repeat" alt="Typing SVG" />
+
+<p>
+<a href="https://github.com/Sneha-ops3124">
+<img src="https://komarev.com/ghpvc/?username=Sneha-ops3124&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</a>
+<a href="https://github.com/Sneha-ops3124?tab=followers">
+<img src="https://img.shields.io/github/followers/Sneha-ops3124?label=Followers&style=flat" alt="followers"/>
+</a>
+</p>
 
 </div>
 
 ---
 
 ```text
-::.....::::::::::::::::::----=+**#######****###########+-----:::::::::::::::::::::::::-:::::::::::--
-::.....:::::::::::::::::-=+**############################=-::::::::::::::::::::-::::::-::::::-:::::-
-:......::::::::::::::::-+*##############*#################+-::::::::::::::::::::::::::::::::--::::::
-:........::::::::::::--+##*##%#############################*-:::::::::::::::::::::::::::::::-:::...:
-::.......::::::::::::-*#####################################*-:::::::::::::::::::::::::::::::::.....
-::.......:::::::::::-*########**##################%%%########*::::::::::::::::::::::::::::::::...:::
-:::.......:::::::::-+########*+*#####%############%%%%%#######+::::::::::::::::::::::::::::..:::::::
--::........::::::::-########*++*#############%%##%%%%%%%%######=::::::::::::::::-:::::....:::::::::.
--::.........:::::::+%%####*+====++++++++*###%%%%%%%%%%%%%%%####+:::::::::::-::::::::::::::::::......
-=-::........::::::-#%%###*+==-----------=+*#%%%%%%%%%%%%%%%%%##*=::::::::---::::::::::::::..........
-*-::........::::::=#%%###*+=-------------=+*#%%%%%%%%%%%%%%%%%##+:::::----:::::::::::::.............
-*+-:........::::::=#%%###*==-------------==+*##%%%%%%%%%%%%%%%%##=-----:::::::::::::..............::
-#*-::........::::-=#%%%%#+=---------------==++*##%%%%%%%%%%%%%%%#*=--::::::::::::..........:::::::::
-#*=-:........:::::=#%%%#*=------------------==+*##%%%%%%%%%%%%%%%#=---:::::::::::.....:::::---:::::
-##+-::.......:::::=#%%%#*=----------:--------===++*##%%%%%%%%%%%%%#=-::::::::::::::::::::------:::::
-##*=::.....:::::::-+*%%#++**+=-------==++******+=====+#%%%%%%%%%%%%+::::::::::::::::::::::-----:::::
-##*+-::....::.:::::-+#%#*+++++==----==+++=============+#%%%%###%%%%#=::::::::::::::::::::::-----::::
-###*=::.......:::::-*#%%*#=-***==----==+++*****+======+#%%%##*#%%%%%#=---:::::::::::::::::------::::
-####+-:........::::=#%%#+====++==-:---=+-:=##=*++=--==+*####**%%%%%%#+--:::::::::::::::::--------:::
-####+-::......::::-=##%#=--------:::--------==-------==*##***#%######+---------::::::::::---::::::::
-####*=-:......::::-+##%#=::::::--:::::::::::::::::---=+#*+++#%%%%####+-----:::::::::::::::::::::::::
-#####+-::.....:::-=*####=-::::--:::::::::::::::::----=*#+++#%%%%%%%##+-:::::::::::::::::::::::::::::
-#####*=::.....:::-+*####*--:::-:::::::---::::::::---=+#####%%%%%%%%##+-:::::---:::::::::::::::::::::
-######+-::....:::=+######+-------:--------::::-----==*#%%%%%%%%%%%%##+--::------::::::::::::::::::::
-######*=:::::::::=*#######+==-----==-------------===+#%%%%%%%%%%%%%#*=---::-----::::::::::::::::::::
-#######+-::::.::-+*########+====----------------===+*%%%#%%%%%%%%%%#+=---:::---::::::::::::::::::::
-#######*=::...::-+*#########*===+++++++++++=---===+*#%%%%%%%%%%%%%###+----:----::::::::::::::::::::
-#######*+-::..::---###*######*========++==--====++*##%%%%##%%%%%####***=--::::::::::::::::::::::::
-*#######*-::::::--:+########%%#===============+++***#%%%%#####%%%**+++*+=-::::::::::::::::::::::::
--*######*+-::::::-++***#########+--------===+++++++*##%%%%%%%##%%##*+++*=-::::::::::::::::::::::::
--+#######*=:--=--====++*#######%%#+++====++++++===+**#####%%%%%%%%####*+==--::::::::::::--:::::::::
--=######*=-=====--=+=++**##%%%%%%%%%%%##+========++++*##*#%%%%%%%####***++=---::-:::::::--:::::::::
-*+*##**=---=-=========+*+*####%%%%%%%%%#+=========-==+***###%%%%%#####*+++=---=---::::::--:::::::::
-+++++++-----===========+**####%%%%%%%%#*==----------==+***###%%%%#####****+==-=-----::::---:::::::::
-+++++=-=------========++***#%%%%%%%%%%#+=---:-------=+++++***##%%%%%%%#*++====-==-----:--=--::::::::
-****+----===============+*##%%%##%%%%%%*=---::-:----=++++++*#**##%%%%#*+++========------==-----::::-
-*+++=-------==========+==+###%%%%%%%%%%#*=----------+++++++++***##%%%#*++=====================++++=
-#*+=--====-=========+=++++#%%%%%%%%%%%%%#=---------=+++++++++=+++*#%#*++=======-=======--=--========
-##*=------=======++++++**###%%%%%%#%%%%%#=-------==+++==+++==++++*##**+============-========+=-==+++
-###=------=-=======+++++*++*#####%%%%%%%#+=-----=====+===++=++++*##*+++++=++====================----
-%#*=-=-===========++++=+++++*#%%%%%%%%%%#+==---===++++===+==+++*##**+++++++=+=====+===========---===
-%#*=----=========++++++=++++*#######%%%%#*=======+==++++=+++++*#**+++++++++++==+=============---====
-%#+-------======++++**+++++*########%%%%#++====++===+====++++*++++++++++==+++=========+==+==--======
-%#=------=======+++++**++++*###%%####%%##**++==+=========++++====++=++++===+================-====+==
-%*----===========++++***++***#######%%###*++===+==++=======+=====++++++++====+++=++=========--===++=
-#=-==============+++++**++**+*##%%#%####*+++++===++++======+======++++**+=---=+++++===+====----==+++
--=+==============++++++*++++++*#####*##*++++++==++++=======+======++++**+=----==++===++=====---==+++
-+=============+++++++#*++++++***#####**+++++==++++=========++=++++++++++=--------==++++++++==--===++
-=+=============++++++*#++++=+++*******+++++====++=+========+++++++==----------------++**++++======++
---========++++==+++++##*++++++++++++++++++======++++=======+==-----------------------===+**+++====++
--=======++++++++++++++#*++++++++++++++++++++======+++=++==---------------------------------=+**+++++
-==============+++++++*##+++++++++++++++++++===+=======-----------------------------------------+***
-===========+=+==+++++##%#++++++++++++++++++======------------------------------------------------=+*
---------==+++++++++++*%%#+++++++++++++++++===-------------------------------------------------------
----------=====+++++++*#%#+++++++++++++==------------------------------------------------------------
-```
+        ┌──(Sneha㉿GitHub)-[~]
+        └─$ cat profile.txt
 
-```text
-###
-┌──(Sneha㉿Github)-[~]
-└─$ cat profile.txt
+        NAME        = Sneha Sharma
 
-NAME        = Sneha Sharma
+        ROLE        = AI/ML Engineer in Progress
 
-ROLE        = AI/ML Engineer in Progress
+        COLLEGE     = University Institute of
+                      Technology, BU
 
-COLLEGE     = University Institute of
-              Technology, BU
+        STATUS      = B.Tech IT • 3rd Year
+                      2024-2028 Batch
 
-STATUS      = B.Tech IT • 3rd Year
-              2024-2028 Batch
+        SPECIALTY   = AI | Machine Learning | MLOps
 
-SPECIALTY   = AI | Machine Learning | MLOps
+        LANGUAGES   = Python | C | C++ | Java
+                      SQL | JavaScript
 
-LANGUAGES   = Python | C | C++ | Java
-              JavaScript | SQL
+        AI / ML     = NumPy | Pandas | Scikit-learn
+                      XGBoost | Data Analysis
 
-AI / ML     = NumPy | Pandas | Scikit-learn
-              XGBoost | Data Analysis
+        DEV_TOOLS   = Git | GitHub | Docker
+                      Linux | VS Code
 
-DEV_TOOLS   = Git | Docker | GitHub
-              Linux | VS Code
+        DATABASES   = PostgreSQL | SQL
 
-DATABASES   = PostgreSQL | SQL
+        CLOUD       = AWS | Render | Vercel
 
-CLOUD       = AWS | Render | Vercel
+        BUILDING    = ML Applications
+                      Data Pipelines
+                      AI-powered Solutions
 
-INTERESTS   = Artificial Intelligence
-              Machine Learning
-              MLOps | Open Source
+        INTERESTS   = Artificial Intelligence
+                      Machine Learning
+                      MLOps | Open Source
 
-BUILDING    = ML Applications
-              Data Pipelines
-              AI-powered Solutions
+        CURRENTLY   = GATE CS 2027
+                      AI/ML Projects
+                      MLOps
 
-CURRENTLY   = AI/ML Projects
-              MLOps
-              GATE CS 2027
+        MISSION     = Learn • Build • Deploy
+                      Repeat
 
-MISSION     = Learn • Build • Deploy
-              Innovate
-
-┌──(Sneha㉿Github)-[~]
-└─$
+        ┌──(Sneha㉿GitHub)-[~]
+        └─$
 ```
 
 ---
 
-💻 Passionate about building **AI/ML applications and real-world software solutions**.
+# 💫 About Me
 
-🤖 Exploring **Machine Learning, Artificial Intelligence and MLOps**.
+Hi 👋 I'm **Sneha**, an Information Technology student passionate about **Artificial Intelligence, Machine Learning and MLOps**.
 
-⚙️ Learning how to take ML models from **development → deployment → production**.
-
-🚀 Always learning new technologies and turning ideas into working projects.
-
----
-
-# 🌐 Socials:
-
-<p align="left">
-
-<a href="https://github.com/Sneha-ops3124">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sneha2006/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+- 🎓 B.Tech Information Technology student at **UIT, BU**
+- 🤖 Exploring **AI/ML and intelligent applications**
+- 🧠 Building projects around **Machine Learning and data-driven solutions**
+- ⚙️ Learning **MLOps, Docker, Linux, cloud and deployment**
+- 🐍 Strongly focused on **Python and problem solving**
+- 📊 Working with **data analysis, model training and evaluation**
+- 🌱 Continuously learning and improving through real-world projects
+- 🚀 Interested in building solutions that move from **idea → model → deployment**
+- 🤝 Open to **AI/ML, MLOps, open-source and software development opportunities**
 
 ---
 
 # ⚡ Tech Stack
 
-## 👩‍💻 Languages
+## 👩🏻‍💻 Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
-
-</p>
-
----
-
-## 🌐 Web & Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,django,flask" />
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,sql" />
 </p>
 
 ---
@@ -175,9 +98,7 @@ MISSION     = Learn • Build • Deploy
 ## 🤖 AI / Machine Learning
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python" />
-
 </p>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -187,31 +108,92 @@ MISSION     = Learn • Build • Deploy
 
 ---
 
-## 🗄️ Databases
+## ⚙️ MLOps / DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,git,github" />
 </p>
 
----
-
-## ⚙️ MLOps & Infrastructure
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws" />
-
-</p>
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
+
+---
+
+## 🌐 Web / Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,django,flask" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🪐 ExoHabitAI
+
+**Machine Learning based exoplanet habitability analysis and prediction.**
+
+- 🔬 Data-driven ML approach
+- 📊 Dataset preprocessing and analysis
+- 🤖 Model training and evaluation
+- 🌳 XGBoost-based prediction
+- ⚖️ SMOTE for handling class imbalance
+- 🚀 Deployment-oriented ML workflow
+
+🔗 **Repository:**  
+https://github.com/Sneha-ops3124/B13-ExoHabitAI
+
+---
+
+### ⚡ eSim
+
+**Open-source electronics simulation project based on FOSSEE eSim.**
+
+- 🐍 Python-based development
+- 🔧 Working with an existing open-source codebase
+- 🛠️ Installation and development workflow
+- 🌱 Open-source contribution experience
+
+🔗 **Repository:**  
+https://github.com/Sneha-ops3124/eSim
+
+---
+
+### 🛒 Flashcart
+
+**Quick-commerce application for ordering everyday products from nearby stores.**
+
+- 🛍️ Grocery and essentials ordering
+- 📦 Product-based application workflow
+- 📱 Application development
+- 🚚 Delivery-oriented system
+
+🔗 **Repository:**  
+https://github.com/Sneha-ops3124/Flashcart
+
+---
+
+### 💻 Byte Brigade
+
+A collaborative software development project focused on building a practical application.
+
+🔗 **Repository:**  
+https://github.com/Sneha-ops3124/Byte_Brigade
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -223,11 +205,21 @@ MISSION     = Learn • Build • Deploy
 
 ---
 
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sneha-ops3124&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sneha-ops3124/Sneha-ops3124/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Sneha-ops3124/Sneha-ops3124/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -246,48 +238,52 @@ MISSION     = Learn • Build • Deploy
 # 🚀 Current Focus
 
 ```text
-STATUS
-
-✓ Artificial Intelligence
-✓ Machine Learning
-✓ Python & Data Science
-✓ MLOps
-✓ Docker & Linux
-✓ Cloud & Deployment
-✓ Real-world ML Projects
-
-[] Build better ML systems
-[] Deploy production-ready models
-[] Contribute to Open Source
-[] Upskill
+┌──────────────────────────────────────────────┐
+│              SNEHA • CURRENT FOCUS           │
+├──────────────────────────────────────────────┤
+│                                              │
+│  ✓ Artificial Intelligence                  │
+│  ✓ Machine Learning                         │
+│  ✓ Python & Data Science                    │
+│  ✓ MLOps                                    │
+│  ✓ Docker & Linux                           │
+│  ✓ Cloud & Deployment                       │
+│  ✓ Real-world ML Projects                   │
+│  ✓ GATE CS 2027 Preparation                 │
+│                                              │
+│  [] Build better ML systems                 │
+│  [] Contribute to Open Source               │
+│  [] Deploy more AI applications             │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🧠 Tech Highlights
+# 🧠 What I'm Learning
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                  TECH HIGHLIGHTS                     │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  🤖 AI/ML                                           │
-│     Machine Learning • Data Analysis                │
-│     Model Training • XGBoost                        │
-│                                                     │
-│  ⚙️ MLOps                                            │
-│     Docker • Linux • Git • Deployment               │
-│                                                     │
-│  🐍 DEVELOPMENT                                     │
-│     Python • C/C++ • Java • JavaScript              │
-│                                                     │
-│  🗄️ DATA                                             │
-│     SQL • PostgreSQL • Pandas • NumPy               │
-│                                                     │
-│  ☁️ CLOUD                                            │
-│     AWS • Render • Vercel                           │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+AI / ML
+ ├── Data Preprocessing
+ ├── Feature Engineering
+ ├── Model Training
+ ├── Model Evaluation
+ └── Machine Learning Pipelines
+
+MLOps
+ ├── Linux
+ ├── Git & GitHub
+ ├── Docker
+ ├── CI/CD
+ ├── Cloud
+ └── Model Deployment
+
+ENGINEERING
+ ├── Python
+ ├── SQL
+ ├── APIs
+ ├── Backend Development
+ └── System Design
 ```
 
 ---
@@ -302,117 +298,45 @@ STATUS
 
 ---
 
-# ✍️ Dev Quote
-
-<div align="center">
-
-### 💡
-
-> **"Build it. Break it. Understand it. Improve it."**
-
-</div>
-
----
-
-# 🔝 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Sneha-ops3124/B13-ExoHabitAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-ops3124&repo=B13-ExoHabitAI&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Sneha-ops3124/Byte_Brigade">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-ops3124&repo=Byte_Brigade&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Sneha-ops3124/studio1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-ops3124&repo=studio1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Sneha-ops3124/Flashcart">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-ops3124&repo=Flashcart&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-# 🪐 About My Main Projects
-
-### B13-ExoHabitAI
-
-Machine-learning project focused on **exoplanet habitability analysis and prediction** using data processing, model training and classification techniques.
-
-**Stack:** Python • Pandas • NumPy • Scikit-learn • XGBoost
-
----
-
-### eSim
-
-Open-source electronics simulation project involving development and contribution to the **FOSSEE eSim ecosystem**.
-
-**Stack:** Python • Open Source Development
-
----
-
-### Flashcart
-
-Quick-commerce application designed around ordering groceries, daily essentials and other products from nearby stores.
-
-**Stack:** Kotlin
-
----
-
-### Byte Brigade
-
-Collaborative development project focused on building a practical software solution.
-
-**Stack:** TypeScript
-
----
-
-# 📌 Currently Building
+# 💡 My Development Philosophy
 
 ```text
-                         ┌───────────────┐
-                         │    IDEA       │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │     DATA      │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │   ML MODEL    │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │    MLOps      │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │   DEPLOY 🚀   │
-                         └───────────────┘
+        Learn something new.
+                 ↓
+        Build something real.
+                 ↓
+        Break it.
+                 ↓
+        Understand why.
+                 ↓
+        Fix it.
+                 ↓
+        Deploy it.
+                 ↓
+        Repeat.
 ```
+
+> **"Don't just learn technology. Build with it."**
 
 ---
 
-# 🎯 Goals
+# 🌐 Connect With Me
 
-```text
-✓ Become strong in AI / Machine Learning
-✓ Build production-ready ML applications
-✓ Learn MLOps deeply
-✓ Improve DSA & problem solving
-✓ Contribute to Open Source
-✓ Build impactful projects
-✓ Learn continuously
-```
+<div align="center">
+
+<a href="mailto:snehasharma.311006@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sneha-ops3124">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sneha2006/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -420,13 +344,6 @@ Collaborative development project focused on building a practical software solut
 
 ### ⚡ Learn • Build • Deploy • Innovate ⚡
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Sneha-ops3124&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
-
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=100&section=footer"/>
 
 </div>
-```
