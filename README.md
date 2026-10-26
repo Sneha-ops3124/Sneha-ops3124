@@ -235,58 +235,7 @@ https://github.com/Sneha-ops3124/Byte_Brigade
 
 ---
 
-# 🚀 Current Focus
 
-```text
-┌──────────────────────────────────────────────┐
-│              SNEHA • CURRENT FOCUS           │
-├──────────────────────────────────────────────┤
-│                                              │
-│  ✓ Artificial Intelligence                  │
-│  ✓ Machine Learning                         │
-│  ✓ Python & Data Science                    │
-│  ✓ MLOps                                    │
-│  ✓ Docker & Linux                           │
-│  ✓ Cloud & Deployment                       │
-│  ✓ Real-world ML Projects                   │
-│  ✓ GATE CS 2027 Preparation                 │
-│                                              │
-│  [] Build better ML systems                 │
-│  [] Contribute to Open Source               │
-│  [] Deploy more AI applications             │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-# 🧠 What I'm Learning
-
-```text
-AI / ML
- ├── Data Preprocessing
- ├── Feature Engineering
- ├── Model Training
- ├── Model Evaluation
- └── Machine Learning Pipelines
-
-MLOps
- ├── Linux
- ├── Git & GitHub
- ├── Docker
- ├── CI/CD
- ├── Cloud
- └── Model Deployment
-
-ENGINEERING
- ├── Python
- ├── SQL
- ├── APIs
- ├── Backend Development
- └── System Design
-```
-
----
 
 # 🏆 GitHub Trophies
 
